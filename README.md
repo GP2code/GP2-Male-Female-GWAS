@@ -4,6 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![DOI](https://zenodo.org/badge/1124893930.svg)](https://doi.org/10.5281/zenodo.18089825)
+
 **Last Updated:** December 2025
 
 ## Summary
